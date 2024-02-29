@@ -26,9 +26,13 @@
   },
   "workspaces": {
     "packages": [
-      "packages/*",
       "plugins/*"
     ]
+  },
+  "dependencies": {
+    "@backstage/plugin-opencost": "0.2.5",
+    "@vmware-tanzu/core-common": "2.0.0",
+    "@vmware-tanzu/core-frontend": "2.0.0"
   },
   "devDependencies": {
     "@backstage/cli": "^0.24.0",

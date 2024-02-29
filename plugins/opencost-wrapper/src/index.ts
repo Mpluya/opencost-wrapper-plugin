@@ -1,0 +1,1 @@
+export { OpenCostFrontendPlugin as plugin } from './OpenCostFrontendPlugin';
