@@ -1,1 +1,1 @@
-export { opencostWrapperPlugin, OpencostWrapperPage } from './plugin';
+export { OpenCostFrontendPlugin as plugin } from './OpenCostFrontendPlugin';
