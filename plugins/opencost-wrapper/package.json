@@ -23,6 +23,10 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
+    "react-router": "6.0.0-beta.0",
+    "@backstage/plugin-opencost": "0.2.5",
+    "@vmware-tanzu/core-common": "2.0.0",
+    "@vmware-tanzu/core-frontend": "2.0.0",
     "@backstage/core-components": "^0.13.5",
     "@backstage/core-plugin-api": "^1.6.0",
     "@backstage/theme": "^0.4.2",
